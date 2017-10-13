@@ -1294,7 +1294,7 @@ globals
     constant playerevent EVENT_PLAYER_VICTORY                   = ConvertPlayerEvent(14)
 
     constant playerevent EVENT_PLAYER_LEAVE                     = ConvertPlayerEvent(15)
-
+    // Unused ?
     constant playerevent EVENT_PLAYER_CHAT                      = ConvertPlayerEvent(16)
 
     constant playerevent EVENT_PLAYER_END_CINEMATIC             = ConvertPlayerEvent(17)
